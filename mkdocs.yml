@@ -1,0 +1,12 @@
+site_name: Dokumentasi JayaByu
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - 1 - Docker:
+      - Instalasi Docker: 01-Modul-Instalasi-Docker-Lengkap.md
+  - 2 - Grafana:
+      - Instalasi Grafana: 02-Modul-Grafana-Lengkap.md
+      - Dashboard Grafana: 03-Modul-Grafana-Dashboard-Local.md
