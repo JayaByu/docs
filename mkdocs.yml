@@ -5,8 +5,9 @@ theme:
 
 nav:
   - Home: index.md
-  - 1 - Docker:
-      - Instalasi Docker: 01-Modul-Instalasi-Docker-Lengkap.md
-  - 2 - Grafana:
-      - Instalasi Grafana: 02-Modul-Grafana-Lengkap.md
-      - Dashboard Grafana: 03-Modul-Grafana-Dashboard-Local.md
+  - 1 - Lab :
+      - 01-Instalasi Docker: 01-Modul-Instalasi-Docker-Lengkap.md
+      - 02-Instalasi Grafana: 02-Modul-Grafana-Lengkap.md
+      - 03-Dashboard Grafana: 03-Modul-Grafana-Dashboard-Local.md
+  - 2 - Docker :
+      - 01-Instalasi Docker Offline : 04-Instalasi-docker-offline.md

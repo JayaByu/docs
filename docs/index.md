@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# JayaByu Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> Linux • DevOps • Monitoring • Security
 
-## Commands
+Dokumentasi implementasi, deployment, troubleshooting, dan operational guide untuk berbagai kebutuhan infrastruktur.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 📚 Categories
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Linux Administration
+- DevOps
+- Docker
+- Monitoring
+- Grafana
+- Prometheus
+- VictoriaMetrics
+
+---
+
+## 👨‍💻 Author
+
+JayaByu (./4l0n3)
+
+GitHub: https://github.com/JayaByu
